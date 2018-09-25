@@ -1,0 +1,7 @@
+{
+  "name": "myCbr",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
